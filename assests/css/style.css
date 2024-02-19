@@ -1,37 +1,77 @@
-
 /* little trick that i learned from the running project 
 asterisk override default styles systems */
 
-* {
-    padding: 0;
-    margin: 0;  
-    box-sizing: border-box ;
-    font-size:'Sixty-four', sans-serif;
+
+/* ALREADY VISITED WEBSITE THAT TURNS PURPLE BY DEFAULT WHEN VISITED 
+TO BE CHANGED IN THE FUTURE */
+
+a:visited {
+    color: black;
 }
 
 
 
-ul {
-    color:rgb(101, 231, 36) ;
-    background-color: black;
+
+/*   HEADER   */
+
+header li {
+    padding: 0 1rem;
+    justify-content: space-evenly;
+    z-index: 99;
+    width: 100%;
+    display: flex;
+    align-items: baseline;
+  
 }
+
+
+
+
+
+#name {
+
+    text-align: center;
+}
+
+/*   MAIN    */
+
+body {
+    background-image: url("/assests/images/73dc03e0-3db0-4a76-9a81-5aa9c69e0b2c.png");
+    width: 100%;
+    background-position: 50%;
+
+
+}
+
+main {
+    flex: 1 0 auto;
+    margin-top: 40px;
+}
+
 
 
 
 
 /* css footer for small sizeing pages */
 
-#sodial-media {
+#social-media {
 
-    text-align: center; 
-    display: flex;    
+    text-align: center;
+    padding: 20px, 0;
+    display: flex;
     justify-content: space-evenly;
-    list-style-type: none;  
-    padding: 20px 0;
+    list-style-type: none;
+    margin-top: 100%;
+
+
+
+
 }
+
 #social-media i {
 
     font-size: 160%;
-    padding: 5%;
-    letter-spacing: 5px;
+    padding: 20px, 0;
+    letter-spacing: 3px;
+
 }
