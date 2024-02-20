@@ -7,21 +7,24 @@ TO BE CHANGED IN THE FUTURE */
 
 a:visited {
     color: black;
-}
 
+}
+body h1 {
+    text-align: center;
+    color: rgb(225, 36, 11);
+}
 
 
 
 /*   HEADER   */
 
 header li {
-    padding: 0 1rem;
+    padding: 0 3rem;
     justify-content: space-evenly;
-    z-index: 99;
-    width: 100%;
-    display: flex;
     align-items: baseline;
-  
+    list-style-type: none;
+    margin: auto;
+    box-sizing: border-box;
 }
 
 
@@ -34,19 +37,18 @@ header li {
 }
 
 /*   MAIN    */
-
-body {
-    background-image: url("/assests/images/73dc03e0-3db0-4a76-9a81-5aa9c69e0b2c.png");
-    width: 100%;
-    background-position: 50%;
-
-
-}
-
 main {
     flex: 1 0 auto;
     margin-top: 40px;
 }
+
+main img {
+    width: 25%;
+    box-shadow: 5px 5px 5px green;
+}
+
+
+
 
 
 
@@ -61,17 +63,9 @@ main {
     display: flex;
     justify-content: space-evenly;
     list-style-type: none;
-    margin-top: 100%;
-
-
-
-
+    font-size: xx-large;
+    letter-spacing: 10px;
+    padding-left: 20px;
+    padding-top: 5em; /*Have this paddind top so the page would scroll down */
 }
 
-#social-media i {
-
-    font-size: 160%;
-    padding: 20px, 0;
-    letter-spacing: 3px;
-
-}
