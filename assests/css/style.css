@@ -13,13 +13,7 @@ TO BE CHANGED IN THE FUTURE */
     font-family: 'Sixtyfour', sans-serif;
 }
 
-a {
-    color: blue; /* Default color for unvisited links */
-    text-decoration: none; /* Remove underline */
-}
-a.checked {
-    color: purple; /* Color for checked links */
-}
+
 
 /*   HEADER   */
 
