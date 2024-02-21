@@ -55,7 +55,7 @@ main {
     
 }
 
-main img {
+#index-photos > p img {
     width: 45%;
     box-shadow: 5px 5px 5px green;
 }
@@ -80,3 +80,12 @@ main img {
     padding-top: 5em; /*Have this paddind top so the page would scroll down */
 }
 
+
+
+
+
+/* Gallery css */ 
+
+#photos {
+    column: count 1px;  
+}
