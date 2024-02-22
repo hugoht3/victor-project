@@ -26,8 +26,9 @@ TO BE CHANGED IN THE FUTURE */
     list-style: none;
     padding: 0;
     border: 5px solid rgb(145, 20, 171);
-    
+
 }
+
 header li {
     border-bottom: 1px solid;
     padding: 10px;
@@ -35,7 +36,7 @@ header li {
 }
 
 #name {
-color: #ad10bc;
+    color: #ad10bc;
     text-align: center;
     background-color: rgb(255, 223, 0, 0.5);
     border: #ad10bc 5px solid;
@@ -43,15 +44,15 @@ color: #ad10bc;
 
 /*   MAIN    */
 
+
+    
+
 #index-photos img {
     max-width: 50%;
     box-shadow: 5px 5px rgb(238, 106, 6);
-    margin: 0 auto;
-    letter-spacing: 6px;
     border: 5px solid rgb(251, 0, 255);
-    margin-left: 50px;
+     padding: 1em;
 }
-
 
 
 
@@ -68,7 +69,7 @@ color: #ad10bc;
     font-size: xx-large;
     letter-spacing: 10px;
     padding-left: 20px;
-    border:rgb(120, 8, 130) 5px solid;
+    border: rgb(120, 8, 130) 5px solid;
     /*Have this paddind top so the page would scroll down */
 }
 
