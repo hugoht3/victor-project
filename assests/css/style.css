@@ -85,7 +85,7 @@ main {
 /* Gallery css */ 
 
 #photos {
-    column: count 1em;  
+    column-count: 1em;
 }
 
 
