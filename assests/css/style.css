@@ -43,14 +43,9 @@ color: #ad10bc;
 
 /*   MAIN    */
 
-
-#index-photos h1 {
- 
-}
-
 #index-photos img {
     max-width: 50%;
-    box-shadow: 5px 5px green;
+    box-shadow: 5px 5px rgb(238, 106, 6);
     margin: 0 auto;
     letter-spacing: 6px;
     border: 5px solid rgb(251, 0, 255);
