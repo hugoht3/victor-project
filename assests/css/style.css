@@ -10,54 +10,52 @@ TO BE CHANGED IN THE FUTURE */
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    font-family: 'Sixtyfour', sans-serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 
+
+.visited {
+    color: #000000;
+}
 
 /*   HEADER   */
 
-header h1 {
-    background-color: #ffffff;
-    padding: 0 3em;
-    width: 100%;
-    position: fixed;
-    box-shadow: 0 2px 2px red;
-    display: contents;
-    justify-content: space-between;
-    align-items: baseline;
-}
 
-header li {
-    padding: 0 3rem;
-    justify-content: space-evenly;
-    align-items: baseline;
-    list-style-type: none;
-    margin: auto;
+#nav-list {
+    list-style: none;
+    padding: 0;
+    border: 5px solid rgb(145, 20, 171);
     
 }
-
-
-
-
-
-#name {
-
+header li {
+    border-bottom: 1px solid;
+    padding: 10px;
     text-align: center;
 }
 
+#name {
+color: #ad10bc;
+    text-align: center;
+    background-color: rgb(255, 223, 0, 0.5);
+    border: #ad10bc 5px solid;
+}
+
 /*   MAIN    */
-main {
-    flex: 1 0 auto;
-    margin-top: 40px;
-    
+
+
+#index-photos h1 {
+ 
 }
 
-#index-photos > p img {
-    width: 45%;
-    box-shadow: 5px 5px 5px green;
+#index-photos img {
+    max-width: 50%;
+    box-shadow: 5px 5px green;
+    margin: 0 auto;
+    letter-spacing: 6px;
+    border: 5px solid rgb(251, 0, 255);
+    margin-left: 50px;
 }
-
 
 
 
@@ -68,25 +66,24 @@ main {
 #social-media {
 
     text-align: center;
-    padding: 20px, 0;
+    padding: 20px 0;
     display: flex;
     justify-content: space-evenly;
     list-style-type: none;
     font-size: xx-large;
     letter-spacing: 10px;
     padding-left: 20px;
-    padding-top: 5em; /*Have this paddind top so the page would scroll down */
+    border:rgb(120, 8, 130) 5px solid;
+    /*Have this paddind top so the page would scroll down */
 }
 
 
 
 
 
-/* Gallery css */ 
+/* Gallery css */
 
-#photos {
-    column-count: 1em;
-}
+
 
 
 
@@ -122,13 +119,13 @@ main {
 
 .text-input {
 
-color: #000000;
-width: 100%;
-height: 20px;
-margin: 5px  0 20px 0;
-border: 1px solid #fafafa;
-border-radius: 2px;
-padding: 0 5px;
+    color: #000000;
+    width: 100%;
+    height: 20px;
+    margin: 5px 0 20px 0;
+    border: 1px solid #fafafa;
+    border-radius: 2px;
+    padding: 0 5px;
 }
 
 
@@ -140,5 +137,5 @@ padding: 0 5px;
     font-size: 100%;
     background-color: #454b1b;
     color: #fafafa;
-    
+
 }
