@@ -50,7 +50,7 @@ header li {
 /*   MAIN    */
 
 #index-photos h1 {
-    padding-bottom: 1px solid;
+
     padding: 10px;
     text-align: center;
     border: 5px solid rgb(251, 0, 255);
@@ -61,10 +61,11 @@ header li {
 
 
 #index-photos img {
-    max-width: 50%;
-    box-shadow: 5px 5px rgb(238, 106, 6);
+    padding: 10px;
+    text-align: center;
     border: 5px solid rgb(251, 0, 255);
-    padding: 1em;
+    box-shadow: 5px 5px rgb(238, 106, 6);
+    width: 100%;
 }
 
 
@@ -92,9 +93,14 @@ header li {
 
 /* Gallery css */
 
-#photos img{
-
+#photos img {
+    padding: 10px;
+    text-align: center;
+    border: 5px solid rgb(251, 0, 255);
+    box-shadow: 5px 5px rgb(238, 106, 6);
+    width: 100%;
 }
+
 
 
 
@@ -127,7 +133,7 @@ header li {
     color: #bf11b0;
     background-color: rgba(149, 157, 36, 0.715);
     padding: 30px;
-    background-color: ;
+
 }
 
 
