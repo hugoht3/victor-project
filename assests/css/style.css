@@ -69,14 +69,14 @@ header li {
     width: 100%;
 }
 
-#fps, #rpg, #open-wolrd, #souls-like, #rogue-like {
+ #fps, #rpg, #open-wolrd, #souls-like, #rogue-like {
     padding: 0;
     margin: 0;
-    font-family: "Anta", sans-serif;
+    font-family: "Anta", sans-serif;               
     font-style: normal;
     border: #ad10bc 1px solid;
     text-align: center;
-}
+} 
 
 
 /* css footer for small sizeing pages */
@@ -109,7 +109,10 @@ header li {
     width: 100%;
 }
 
-
+figure {
+    color: #ad10bc;
+    text-align: center;
+}
 
 
 /* Sign Up Css */
