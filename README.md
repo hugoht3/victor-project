@@ -109,3 +109,12 @@ The live link can be found here - https://hugoht3.github.io/victor-project/index
 
 
 
+# Credits 
+
+The code institute it'self, the most of the information used came from it.(https://codeinstitute.net/ie)
+
+
+> Instructions on how to improve the css  was taken from https://www.youtube.com/@KevinPowell (Kevin Powell)
+> The icons in the footer were taken from Font Awesome.
+> The website font is from GOOGLE FONTS.
+
