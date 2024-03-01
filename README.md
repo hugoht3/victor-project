@@ -15,7 +15,7 @@ Featured on all three pages, the full responsive navigation list includes links 
 in this first page we have images to act as guides to set categories of games such as FPS (first pearson shooter), Open wolrd, and so on.
 
 
-The FPS (IMAGE) (first pearson shooter) 
+The FPS ![Alt text ](/assests/images/counter_strike_2_logo_characters.jpg)       
 
 
 The RPG (IMAGE) (role playing game) where you can create you`re own story 
