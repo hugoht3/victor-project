@@ -15,19 +15,19 @@ Featured on all three pages, the full responsive navigation list includes links 
 in this first page we have images to act as guides to set categories of games such as FPS (first pearson shooter), Open wolrd, and so on.
 
 
-The FPS ![Alt text ](/assests/images/counter_strike_2_logo_characters.jpg)       
+The FPS (first pearson shooter) ![Alt text ](/assests/images/counter_strike_2_logo_characters.jpg)       
 
 
-The RPG (IMAGE) (role playing game) where you can create you`re own story 
+The RPG  (role playing game) where you can create you`re own story ![Alt text ](/assests/images/baldur-s-gate-3-physical-edition-to-be-released-in-early-2024-cover6556523e7a879.jpg)   
 
 
-The Open Wolrd (IMAGE) (describe what it is) where you can explore the whole map of the game at any point.
+The Open Wolrd   where you can explore the whole map of the game at any point. ![Alt text ](/assests/images/cyber-punk.avif)
 
 
-The SOULS LIKE (IMAGE) a internet used discription for a genre that usualy involves a high level of dificulty and a (dodge roll) <== pun 
+The SOULS LIKE a internet used discription for a genre that usualy involves a high level of dificulty and a (dodge roll) <== pun ![Alt text ](/assests/images/nioh-2.jpg)
 
 
-The ROGUE LIKE (IMAGE) a game wich consist in not beating at the first try but to play over and over and have diference expirinces every time.
+The ROGUE LIKE  a game wich consist in not beating at the first try but to play over and over and have diference expirinces every time. !![Alt text ](/assests/images/sukul.jpg)
 
 
 
