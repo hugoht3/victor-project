@@ -100,13 +100,35 @@ No errors were returned when passing through the official W3C validator https://
 CSS
 No errors were found when passing through the official (Jigsaw) validator https://jigsaw.w3.org/css-validator/
 
-
-
-
-
 Unfixed bugs :
 
 A possible bug is when opening the website all the links would have shown as already accessed and a blue color is shown instead of the purple coloring of choice.
+### Dev Tools Networks status 
+
+
+
+![Alt text ](/assests/images/WEB%20ANALISIS.png)
+
+
+
+### Dev Tools Moblile Lighthouse status
+
+
+
+
+![Alt text ](/assests/images/MOBILE.png)
+
+
+
+
+### Dev Tools Desktop Lighthouse status
+
+![Alt text ](/assests/images/DESKTOP.png)
+
+
+
+
+
 
 
 
