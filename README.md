@@ -135,3 +135,11 @@ The code institute it'self, the most of the information used came from it.(https
 
 > The website font is from GOOGLE FONTS.
 
+
+## Libraries Used
+
+> Beautify. (deprecated) very usefull tool to organize you're code for begginers.
+
+> Git Extension Pack.
+
+> Live Server. Another very useful tool to have youre ideas (code) visualized in a webopage with a click o a button.
