@@ -138,7 +138,7 @@ The code institute it'self, the most of the information used came from it.(https
 
 ## Libraries Used
 
-> Beautify. (deprecated) very usefull tool to organize you're code for begginers.
+> Beautify. (deprecated) very usefull tool to organize you're code. For begginers.
 
 > Git Extension Pack.
 
