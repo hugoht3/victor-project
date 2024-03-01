@@ -1,5 +1,8 @@
 # victor-project
 
+![Alt text ](/assests/images/header.png)
+
+
 This is my website called ADD-ME wich is a gamming news website wich consist of 3 pages, my index page act as an informative hub for to introduce to new visitors and for subscribers as well with the main goal of the project which is video-games news. (releases, prices, curiositys etc ...)
 
 
@@ -8,7 +11,7 @@ FEATURES
 
 Featured on all three pages, the full responsive navigation list includes links to  Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
 
-
+![Alt text ](/assests/images/list.png)
 
 # The index page
 
@@ -34,6 +37,8 @@ The ROGUE LIKE  a game wich consist in not beating at the first try but to play 
 
 
 # The Footer
+
+![Alt text ](/assests/images/footer.png)
 
 Links to all the popular social medias that opens in new tabs for easy navigation for the user.
 
