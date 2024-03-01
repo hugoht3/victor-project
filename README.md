@@ -16,20 +16,20 @@ in this first page we have images to act as guides to set categories of games su
 
 
 The FPS (first pearson shooter) ![Alt text ](/assests/images/counter_strike_2_logo_characters.jpg)       
-
+(images found in the google search website in the images tab https://www.google.com/)
 
 The RPG  (role playing game) where you can create you`re own story ![Alt text ](/assests/images/baldur-s-gate-3-physical-edition-to-be-released-in-early-2024-cover6556523e7a879.jpg)   
-
+(images found in the google search website in the images tab https://www.google.com/)
 
 The Open Wolrd   where you can explore the whole map of the game at any point. ![Alt text ](/assests/images/cyber-punk.avif)
-
+(images found in the google search website in the images tab https://www.google.com/)
 
 The SOULS LIKE a internet used discription for a genre that usualy involves a high level of dificulty and a (dodge roll) <== pun ![Alt text ](/assests/images/nioh-2.jpg)
-
+(images found in the google search website in the images tab https://www.google.com/)
 
 The ROGUE LIKE  a game wich consist in not beating at the first try but to play over and over and have diference expirinces every time. !![Alt text ](/assests/images/sukul.jpg)
 
-
+(images found in the google search website in the images tab https://www.google.com/)
 
 
 
@@ -52,12 +52,19 @@ The second page its a humble gallery for the subscribers, for so they can share 
 
 A good place to find out more genres to add to you`re portifolio
 
-Images (IMAGE) that represent alrady users of the page and a picture of theirs expirience.
+Images  that represent alrady users of the page and a picture of theirs expirience.
 
+![Alt text ](/assests/images/file-1.jpg)
 
+![Alt text ](/assests/images/file-2.jpg)
 
+![Alt text ](/assests/images/file-3.jpg)
 
+![Alt text ](/assests/images/file-4.jpg)
 
+![Alt text ](/assests/images/file-5.jpg)
+
+![Alt text ](/assests/images/file-6.jpg)
 
 
 # The signup
@@ -83,10 +90,13 @@ Have the site open in many difference devices , APPLE devices, ANDROID devices, 
 Validator Testing
 
 HTML
-No errors were returned when passing through the official W3C validator
+No errors were returned when passing through the official W3C validator https://validator.w3.org/
 
 CSS
-No errors were found when passing through the official (Jigsaw) validator
+No errors were found when passing through the official (Jigsaw) validator https://jigsaw.w3.org/css-validator/
+
+
+
 
 
 Unfixed bugs :
@@ -115,6 +125,8 @@ The code institute it'self, the most of the information used came from it.(https
 
 
 > Instructions on how to improve the css  was taken from https://www.youtube.com/@KevinPowell (Kevin Powell)
+
 > The icons in the footer were taken from Font Awesome.
+
 > The website font is from GOOGLE FONTS.
 
