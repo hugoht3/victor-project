@@ -69,14 +69,18 @@ header li {
     width: 100%;
 }
 
- #fps, #rpg, #open-wolrd, #souls-like, #rogue-like {
+#fps,
+#rpg,
+#open-wolrd,
+#souls-like,
+#rogue-like {
     padding: 0;
     margin: 0;
-    font-family: "Anta", sans-serif;               
+    font-family: "Anta", sans-serif;
     font-style: normal;
     border: #ad10bc 1px solid;
     text-align: center;
-} 
+}
 
 
 /* css footer for small sizeing pages */
@@ -92,7 +96,7 @@ header li {
     letter-spacing: 10px;
     padding-left: 20px;
     border: rgb(120, 8, 130) 5px solid;
-    /*Have this paddind top so the page would scroll down */
+    margin-top: 3.5em;
 }
 
 
@@ -114,7 +118,7 @@ figure {
     text-align: center;
 }
 
-                        
+
 /* Sign Up Css */
 #main-signup {
     flex: 1 0 auto;
@@ -126,16 +130,17 @@ figure {
     font-style: normal;
 }
 
-#signup  {
+#signup {
     background-size: cover;
     background-position: 75%;
     padding: 20px 10% 0 10%;
     flex-grow: 1;
     width: 100%;
-    
+
 }
 
-#signup h2, p {
+#signup h2,
+p {
     color: #fafafa00;
     margin-bottom: 20px;
     border: 3px solid rgb(255, 0, 255);
@@ -143,7 +148,7 @@ figure {
     text-align: center;
 }
 
-#signup-form  {
+#signup-form {
     color: #bf11b0;
     background-color: rgba(242, 255, 1, 0.715);
     padding: 30px;
@@ -180,7 +185,11 @@ figure {
 }
 
 
-
+#cat {
+    width: 50%;
+    border: 3px solid rgb(183, 14, 202);
+    margin-left: 3.5em;
+}
 
 
 /* media querrie for a 768px page */
@@ -188,68 +197,77 @@ figure {
 @media screen and (min-width: 768px) {
 
 
-/* HEADER */
- 
-#name {
-    font-size: xxx-large;
-}
+    /* HEADER */
 
-/* NAV BAR  */
+    #name {
+        font-size: xxx-large;
+    }
 
-p {
-    font-size: larger;
-}
+    /* NAV BAR  */
 
-#nav-list {
-    font-size: x-large;
-}
+    p {
+        font-size: larger;
+    }
 
+    #nav-list {
+        font-size: x-large;
+    }
 
-/* FOOTER */
+    #cat {
+        margin-left: 6.5em;
+        margin-top: 7.5em;
+        width: 65%;
+    }
 
-#social-media i {
-    font-size: xx-large;
-}
+    /* FOOTER */
 
-
-/* GALLERY */
-
-figcaption {
-    font-size: x-large;
-}
+    #social-media i {
+        font-size: xx-large;
+    }
 
 
+    /* GALLERY */
+
+    figcaption {
+        font-size: x-large;
+    }
 
 
 
-/* SIGN UP */
-
-#signup  {
-   
-    min-height: 73vh;
-   
-}
 
 
-#signup h2, p {
-   
-   font-size: xx-large;
-}
+    /* SIGN UP */
 
-#signup-form {
-    
-    border: 5px solid rgb(255, 0, 255);
-    margin-top: 3em;
-    font-size: x-large;
-}
+    #signup {
 
-.text-input {
-    font-size: large;
-}
+        min-height: 73vh;
+
+    }
+
+
+    #signup h2,
+    p {
+
+        font-size: xx-large;
+    }
+
+    #signup-form {
+
+        border: 5px solid rgb(255, 0, 255);
+        margin-top: 3em;
+        font-size: x-large;
+    }
+
+    .text-input {
+        font-size: large;
+    }
 
 }
 
 @media screen and (min-width: 992px) {
-
+#cat {
+    margin-left: 9em;
+    margin-top: -0.7em;
+}
     /* seems to bee responsive enouhg */
 }
