@@ -78,6 +78,12 @@ Images that represent already users of the page and a picture of their experienc
 
 The third page is a sign-up that can offer the experience of having the user connect with us via email and a newsletter.
 
+# The Wolcome 
+
+
+![Alt text ](/assests/images/Screenshot%202024-03-03%20191152.png)
+
+A Small greeting page that appers as soon as you complete you signup.
 
 
 
