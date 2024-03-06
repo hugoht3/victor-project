@@ -138,7 +138,8 @@ All of the followed by their respective icons provided by the FONT AWESOME websi
 
 > https://www.tiktok.com/
 
-Note that all set links guides you to another tab.
+> [!NOTE]
+> Note that all set links guides you to another tab.
 
 ###  gallery.html  (community screenshot)
 
