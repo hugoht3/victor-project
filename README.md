@@ -145,26 +145,31 @@ Note that all set links guides you to another tab.
 As we enter this page by clicking the link in the index page (communityscreenshot) https://hugoht3.github.io/victor-project/gallery.html 
 We are guided to gallery page which contains images of various genre of games representing users who have posted their content.
 
+> file1.jpg     Representing the user: CoolCat21
+
+> file2.jpg     Representing the user: TechNinja87
+
+> file3.jpg     Representing the user: MusicLover123
+
+> file4.jpg     Representing the user: AdventureSeeker55
+
+> file5.Jpg     Representing the user: FoodieQueen22
+
+
 At the top we can find the similar links as to the ones seen in the index.html page, in this case:
 
 > home
 
 > signup 
 
-
  Images in this page can be found in the respective folder ./assetes/images 
 
-> file1.jpg
+And as we reach the botton of the page we are greeted again by our footer.
 
-> file2.jpg
 
-> file3.jpg
-
-> file4.jpg
-
-> file5.Jpg
 
 ###  signup.html
+
 
 
 Have the site open on many different devices, APPLE devices, ANDROID devices, and so in different types of web browsers, all of which render the content with no problem
