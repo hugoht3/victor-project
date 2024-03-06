@@ -100,17 +100,49 @@ Have a hub that will show the user all about games, all the bits of information,
 
 # Testing
 
+
+### index
+
 As we click on the link https://hugoht3.github.io/victor-project/index.html we are directed to the index page which contains a header with the website (ADD-ME) 
 followed by a small list of links to navigate the page 
- > community screenshots 
- > sign up
+
+> community screenshots 
+
+> sign up
+
+Soon followed by a <h1> with the text introducing the website.
+
+> After that we have our first image (counter_strike_2_logo_characters.jpg) and a text whith curiosities regarding the genre of games.
+> Soon after we have another image (baldur-s-gate-3-physical-edition-to-be-released-in-early-2024-cover6556523e7a879.jpg) and another short paragraph with information of set genre.
+> Followed by (cyber-punk.avif) and a paragraph.
+> (nioh-2.jpg) and a paragraph 
+> Last but not least (sukul.jpg) and its paragraph 
+
+As we reach the bootom of the page  we get to the  Footer of the website wich provides us whith links to the most popular social medias.
+
+All of the followed by their respective icons provided by the FONT AWESOME website https://kit.fontawesome.com/e10185b9bd.js
+ 
+> https://www.facebook.com/
+> https://twitter.com/
+> https://www.youtube.com/
+> https://www.instagram.com/
+> https://www.tiktok.com/
+
+
+### the gallery  (community screenshot)
+
+As we enter this page by clicking the link in the index page (communityscreenshot) https://hugoht3.github.io/victor-project/gallery.html 
+We are guided to gallery page which contains images of various genre of games representing users who have posted their content.
+
+** Images in this page can be found in the respective folder ./assetes/images **
+
+> file1.jpg
+> file2.jpg
+> file3.jpg
+> file4.jpg
+> file5.Jpg
 
 Have the site open on many different devices, APPLE devices, ANDROID devices, and so in different types of web browsers, all of which render the content with no problem
-
-
-
-
-
 
 
 Validator Testing
