@@ -1,5 +1,10 @@
 # victor-project
 
+https://hugoht3.github.io/victor-project/index.html  link for the page.
+
+
+
+
 ![Alt text ](/assests/images/header.png)
 
 
@@ -78,7 +83,7 @@ Images that represent already users of the page and a picture of their experienc
 
 The third page is a sign-up that can offer the experience of having the user connect with us via email and a newsletter.
 
-# The Wolcome 
+# The Welcome 
 
 
 ![Alt text ](/assests/images/Screenshot%202024-03-03%20191152.png)
@@ -95,7 +100,17 @@ Have a hub that will show the user all about games, all the bits of information,
 
 # Testing
 
+As we click on the link https://hugoht3.github.io/victor-project/index.html we are directed to the index page which contains a header with the website (ADD-ME) 
+followed by a small list of links to navigate the page 
+ > community screenshots 
+ > sign up
+
 Have the site open on many different devices, APPLE devices, ANDROID devices, and so in different types of web browsers, all of which render the content with no problem
+
+
+
+
+
 
 
 Validator Testing

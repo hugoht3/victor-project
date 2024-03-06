@@ -29,6 +29,7 @@ TO BE CHANGED IN THE FUTURE */
     font-family: "Anta", sans-serif;
     font-weight: 400;
     font-style: normal;
+    word-spacing: 10px;
 }
 
 header li {
@@ -187,8 +188,8 @@ p {
 
 #cat {
     width: 50%;
-    border: 3px solid rgb(183, 14, 202);
-    margin-left: 5.5em;
+    border: 3px solid rgb(202, 14, 196);
+    margin-left: 3.5em;
 }
 
 
