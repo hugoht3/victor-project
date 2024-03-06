@@ -110,7 +110,7 @@ followed by a small list of links to navigate the page
 
 > sign up
 
-Soon followed by a <h1> with the text introducing the website.
+Soon followed by a **h1** with the text introducing the website.
 
  Images in this page can be found in the respective folder ./assetes/images 
 
