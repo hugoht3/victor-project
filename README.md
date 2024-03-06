@@ -139,7 +139,7 @@ All of the followed by their respective icons provided by the FONT AWESOME websi
 > https://www.tiktok.com/
 
 > [!NOTE]
-> Note that all set links guides you to another tab.
+> All set links guides you to another tab.
 
 ###  gallery.html  (community screenshot)
 
@@ -167,10 +167,19 @@ At the top we can find the similar links as to the ones seen in the index.html p
 
 And as we reach the botton of the page we are greeted again by our footer.
 
-
-
 ###  signup.html
 
+As we enter this page (signup) https://hugoht3.github.io/victor-project/signup.html we are greeted with a humble panel for signup to the website.
+
+Which are two text box the first beeing for a Name placement
+The second for a Nick name.
+The third beeing a emil box.
+Followed by two radio buttons   
+
+1.Terms of service    2.Join our newsletter
+
+> [!NOTE]
+> All the boxes except the Join our newsletter have the 'required' mark
 
 
 Have the site open on many different devices, APPLE devices, ANDROID devices, and so in different types of web browsers, all of which render the content with no problem
