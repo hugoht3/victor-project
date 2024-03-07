@@ -218,7 +218,7 @@ The same goes for css
 No errors were found when passing through the official (Jigsaw) validator https://jigsaw.w3.org/css-validator/
 
 
-![alt text](/assests/images/cssconfirm.png.png)
+![alt text](/assests/images/cssconfirm.png.)
 
 
 
