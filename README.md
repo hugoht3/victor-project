@@ -104,10 +104,12 @@ ALL LINKS TESTED
 
 | ACTION                       |       PASS      |      FAIL       |
 |------------------------------|-----------------|-----------------|
-| https://www.facebook.com/    |        X        |                 |
-| https://www.facebook.com/    |        X        |                 |
-| https://www.facebook.com/    |        X        |                 |
-
+| https://www.facebook.com    |        X        |                 |
+| https://www.twitter.com    |        X        |                 |
+| https://www.youtube.com    |        X        |                 |
+| https://www.instagram.com    |        X        |                 |
+| https://www.twitter.com    |        X        |                 |
+| https://www.tiktok.com    |        X        |                 |
 
 
 
