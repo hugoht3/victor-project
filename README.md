@@ -277,6 +277,11 @@ As we enter pages
 
 ![Alt text ](/assests/images/gitdeploy.png)
 
+We select the Option Deploy from branch 
+Select the branch you are working from, in this case mine is MASTER and file /root  hit Save
+
+> after a few seconds or minutes depending on the amount of content, your website ill be show ant the top of the page and you can acess trought the link on the top.
+
 
 
 The whole of the code was done in VSCODE and pushed to Git Hub, its pubic directory https://github.com/hugoht3/victor-project in the master branch. (go check it out :D).
