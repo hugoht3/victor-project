@@ -123,6 +123,10 @@ ALL LINKS TESTED
 | https://www.tiktok.com     |        X        |                 |
 
 
+> [!NOTE]
+> The links marked as FAIL are not broken they are just imbedded in the code and are not shown in the page.
+
+
 
 ### index.html
 
