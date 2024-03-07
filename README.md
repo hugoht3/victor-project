@@ -101,7 +101,7 @@ Have a hub that will show the user all about games, all the bits of information,
 # Testing
 
 
-### index
+### index.html
 
 As we click on the link https://hugoht3.github.io/victor-project/index.html we are directed to the index page which contains a header with the website (ADD-ME) 
 followed by a small list of links to navigate the page 
@@ -181,22 +181,48 @@ Followed by two radio buttons
 > [!NOTE]
 > All the boxes except the Join our newsletter have the 'required' mark
 
+And as we reach the end of the page we are found by our footer once again.
 
-Have the site open on many different devices, APPLE devices, ANDROID devices, and so in different types of web browsers, all of which render the content with no problem
+
+### welcome.html
+
+A confirmation page https://hugoht3.github.io/victor-project/welcome.html 
+
+Containing a simple greeting message in a h1 element and followed by a image > cat.jpg
 
 
-Validator Testing
+
+
+
+
+### Validator Testing
 
 HTML
 No errors were returned when passing through the official W3C validator https://validator.w3.org/
 
+The check ups where done by direct input, when you simply copy all your code ( control + c ) them paste it in the box ( control + v )
+
+![Alt text ](/assests/images/htmlvalidator.png) 
+
 CSS
 No errors were found when passing through the official (Jigsaw) validator https://jigsaw.w3.org/css-validator/
 
-Unfixed bugs :
 
-A possible bug is when opening the website all the links would have shown as already accessed and a blue color is shown instead of the purple coloring of choice.
+The same goes for css 
+
+![alt text](/assests/images/cssvalidator.png)
+
+
+
+> [!WARNING]
+> Unfixed bugs :
+
+> A possible bug is when opening the website all the links would have shown as already accessed and a blue color is shown instead of the purple coloring of choice.
+
+
 ### Dev Tools Networks status 
+
+
 
 
 
