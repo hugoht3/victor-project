@@ -198,19 +198,29 @@ Containing a simple greeting message in a h1 element and followed by a image > c
 ### Validator Testing
 
 HTML
-No errors were returned when passing through the official W3C validator https://validator.w3.org/
 
 The check ups where done by direct input, when you simply copy all your code ( control + c ) them paste it in the box ( control + v )
 
 ![Alt text ](/assests/images/htmlvalidator.png) 
 
-CSS
-No errors were found when passing through the official (Jigsaw) validator https://jigsaw.w3.org/css-validator/
 
+No errors were returned when passing through the official W3C validator https://validator.w3.org/
+
+![Alt text ](/assests/images/htmlconfirm.png) 
+
+CSS
 
 The same goes for css 
 
 ![alt text](/assests/images/cssvalidator.png)
+
+
+No errors were found when passing through the official (Jigsaw) validator https://jigsaw.w3.org/css-validator/
+
+
+![alt text](/assests/images/cssconfirm.png.png)
+
+
 
 
 
