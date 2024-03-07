@@ -176,10 +176,16 @@ The second for a Nick name.
 The third beeing a emil box.
 Followed by two radio buttons   
 
-1.Terms of service    2.Join our newsletter
+1.Terms of service   
+
+2.Join our newsletter
 
 > [!NOTE]
 > All the boxes except the Join our newsletter have the 'required' mark
+
+> [!IMPORTANT]
+> As this project is a static website consisting only of HTML and CSS, the METHOD use is the submit button is GET, which simply leads us to the next page welcome.html but no information is passed along in the process.
+
 
 And as we reach the end of the page we are found by our footer once again.
 
@@ -280,7 +286,7 @@ As we enter pages
 We select the Option Deploy from branch 
 Select the branch you are working from, in this case mine is MASTER and file /root  hit Save
 
-> after a few seconds or minutes depending on the amount of content, your website ill be show ant the top of the page and you can acess trought the link on the top.
+> after a few seconds or minutes depending on the amount of content, your website ill be show ant the top of the page and you can acess trought the link on the top
 
 
 
