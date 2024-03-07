@@ -102,15 +102,26 @@ Have a hub that will show the user all about games, all the bits of information,
 
 ALL LINKS TESTED 
 
-| ACTION                       |       PASS      |      FAIL       |
-|------------------------------|-----------------|-----------------|
-| https://www.facebook.com    |        X        |                 |
+| ACTION                                                     |       PASS      |      FAIL       |
+|------------------------------------------------------------|-----------------|-----------------|
+| https://hugoht3.github.io/victor-project/index.html        |        X        |                 |
+| https://hugoht3.github.io/victor-project/gallery.html      |        X        |                 |
+| https://hugoht3.github.io/victor-project/signup.html       |        X        |                 |
+| https://hugoht3.github.io/victor-project/welcome.html      |                 |        X        |
+| https://kit.fontawesome.com/e10185b9bd.js                  |                 |        X        |
+| https://fonts.googleapis.com/css2?family=Anta&display=swap |                 |        X        |
+| https://fonts.gstatic.com                                  |                 |        X        |
+| https://fonts.googleapis.com                               |                 |        X        |
+
+|----------------------------|-----------------|-----------------|
+| ACTION                     |       PASS      |      FAIL       |
+| https://www.facebook.com   |        X        |                 |
 | https://www.twitter.com    |        X        |                 |
 | https://www.youtube.com    |        X        |                 |
-| https://www.instagram.com    |        X        |                 |
+| https://www.instagram.com  |        X        |                 |
 | https://www.twitter.com    |        X        |                 |
-| https://www.tiktok.com    |        X        |                 |
-
+| https://www.tiktok.com     |        X        |                 |
+|----------------------------|-----------------|-----------------|
 
 
 ### index.html
