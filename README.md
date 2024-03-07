@@ -113,15 +113,15 @@ ALL LINKS TESTED
 | https://fonts.gstatic.com                                  |                 |        X        |
 | https://fonts.googleapis.com                               |                 |        X        |
 
-|----------------------------|-----------------|-----------------|
 | ACTION                     |       PASS      |      FAIL       |
+|----------------------------|-----------------|-----------------|
 | https://www.facebook.com   |        X        |                 |
 | https://www.twitter.com    |        X        |                 |
 | https://www.youtube.com    |        X        |                 |
 | https://www.instagram.com  |        X        |                 |
 | https://www.twitter.com    |        X        |                 |
 | https://www.tiktok.com     |        X        |                 |
-|----------------------------|-----------------|-----------------|
+
 
 
 ### index.html
