@@ -263,11 +263,21 @@ No errors were found when passing through the official (Jigsaw) validator https:
 
 # The deployment 
 
-A Total of 3 deployments:
+For deployment we start by going to our repository in the github website. https://github.com/hugoht3/victor-project
 
-The first was just to make sure all the things were correct.
-The second was to fix all the things that were not correct.
-I tried to have all my content shown as I wanted and checked all the links would be accessed.
+As we enter the repository e select the option Settings 
+
+![Alt text ](/assests/images/gitsettings.png)
+
+As we enter settings we search for a TAB called Code and automation and in this tab e click in the option PAGES 
+
+![Alt text ](/assests/images/gitpages.png)
+
+As we enter pages 
+
+![Alt text ](/assests/images/gitdeploy.png)
+
+
 
 The whole of the code was done in VSCODE and pushed to Git Hub, its pubic directory https://github.com/hugoht3/victor-project in the master branch. (go check it out :D).
 
