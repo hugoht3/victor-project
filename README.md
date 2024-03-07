@@ -100,6 +100,16 @@ Have a hub that will show the user all about games, all the bits of information,
 
 # Testing
 
+ALL LINKS TESTED 
+
+| ACTION                       |       PASS      |      FAIL       |
+|------------------------------|-----------------|-----------------|
+| https://www.facebook.com/    |        X        |                 |
+| https://www.facebook.com/    |        X        |                 |
+| https://www.facebook.com/    |        X        |                 |
+
+
+
 
 ### index.html
 
